@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"r.rpath.linux": "/oscar/rt/9.2/software/0.20-generic/0.20.1/opt/spack/linux-rhel9-x86_64_v3/gcc-11.3.1/r-4.5.1-3eqz7xkibvobvxb55l4qlvtgctmjhf2y/bin/R",
+		"r.rterm.linux": "/oscar/rt/9.2/software/0.20-generic/0.20.1/opt/spack/linux-rhel9-x86_64_v3/gcc-11.3.1/r-4.5.1-3eqz7xkibvobvxb55l4qlvtgctmjhf2y/bin/R",
+		"r.alwaysUseActiveTerminal": true,
+		"workbench.panel.defaultLocation": "right",
+		"workbench.panel.location": "right"
+	}
+}
