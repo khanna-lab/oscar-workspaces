@@ -9,6 +9,8 @@
 		"r.rpath.linux": "/oscar/home/akhann16/code/net-ergm-v4plus/launch_R.sh",
 		"r.rterm.option": ["--no-save", "--no-restore"],
 		"r.sessionWatcher": true,
+		"workbench.panel.defaultLocation": "right",
+		"workbench.panel.location": "right",
 		"workbench.colorCustomizations": {
 			"activityBar.activeBackground": "#93e6fc",
 			"activityBar.background": "#93e6fc",
